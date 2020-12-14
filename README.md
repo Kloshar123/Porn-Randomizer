@@ -5,6 +5,8 @@ Program That Gives you Random Porn
   Porn randomizer is program in js that when you click it gives you random porn
   It can be open in browser or electron, but if you want to be in incognito you will have to fire it up in browser (for now)
 
-# Design: Jeremy Cigan
+## Team
+
+Design: MikiXD
 
 Developer: Kloshar
